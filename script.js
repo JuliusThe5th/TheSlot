@@ -112,7 +112,6 @@ function buttonTrigger() {
     if (!startButton.disabled) {
       // Deaktivuje tlačítko
       startButton.disabled = true;
-
       // Spustí funkci rollAll pro spuštění otáčení válců
       rollAll();
     }

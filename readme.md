@@ -15,6 +15,8 @@ Tato aplikace implementuje slotový stroj pomocí HTML, CSS a JavaScriptu. Hrá�
 
 ## Instalace a spuštění
 
+- Tuto hru si můžete zahrát na [slot.jecool.net](slot.jecool.net)!
+
 1. Stáhněte si zdrojové kódy z tohoto repozitáře.
 2. Otevřete soubor `index.html` ve webovém prohlížeči.
 
